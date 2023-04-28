@@ -155,4 +155,10 @@ img {
         height: 200px;
         margin-bottom: 1rem;
     }
+
+    /*Step section*/
+
+    .steps .col{
+        width: 100%;
+    }
  }
