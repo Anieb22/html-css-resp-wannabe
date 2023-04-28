@@ -169,10 +169,6 @@ img {
     .why-us .col{
         width: 100%;
     }
-
-    .col-left, .col-right{
-        width: 100%;
-    }
  }
 
  /*tablet*/
@@ -185,9 +181,6 @@ img {
         width: 100%;
     }
 
-    .row{
-        align-items: center;
-    }
 
     .col{
         padding: 20px;
@@ -212,8 +205,8 @@ img {
 
     /*why us section*/
 
-    .why-us .col{
-        width: 100%;
+    .col-left{
+        width: 40%;
     }
  }
 
@@ -250,7 +243,7 @@ img {
 
     /*why us section*/
 
-    .why-us .col{
-        width: 100%;
+    .col-left{
+        width: 40%;
     }
  }
