@@ -164,9 +164,7 @@ img {
 
     /*why us section*/
 
-    .why-us .col{
-        width: 100%;
-    }
+
  }
 
 
@@ -202,8 +200,8 @@ img {
 
     /*why us section*/
 
-    .why-us .col{
-        width: 100%;
+    .col-left{
+        width: 40%;
     }
  }
 
@@ -238,7 +236,7 @@ img {
 
     /*why us section*/
 
-    .why-us .col{
-        width: 100%;
+    .col-left{
+        width: 40%;
     }
  }
